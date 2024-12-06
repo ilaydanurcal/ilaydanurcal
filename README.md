@@ -44,12 +44,6 @@ Welcome to my GitHub profile! I am a frontend developer with a strong passion fo
 
 ---
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilaydanurcal&show_icons=true&theme=calm" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydanurcal&layout=compact&theme=calm" alt="Top Languages" height="150"/>
-</p>
-
 ---
 
 ## 📌 Core Principles:

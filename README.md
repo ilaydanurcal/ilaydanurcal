@@ -50,5 +50,4 @@ Welcome to my GitHub profile! I am a frontend developer with a strong passion fo
 - 🧩 **Detail-Oriented**: I strive to ensure every component of my applications is intuitive and well-structured.
 - 🌟 **User-Centric Design**: My focus is on creating seamless and efficient user experiences.
 - 🚀 **Continuous Learning**: Staying updated with the latest web technologies and best practices is my priority.
-
-Feel free to explore my repositories and connect with me. Let’s build something impactful together! 🚀
+Explore my repositories to see my work and projects.
